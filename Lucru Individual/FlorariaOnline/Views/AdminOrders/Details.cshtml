@@ -1,0 +1,36 @@
+﻿@model FlorariaOnline.Models.Order
+@using FlorariaOnline.Models
+@{
+    ViewData["Title"] = "Admin - Detalii comandă";
+}
+
+<h2>Comanda #@Model.Id</h2>
+<p>Status: <strong>@Model.Status</strong></p>
+<p>Client: @Model.DeliveryName | @Model.Phone</p>
+<p>Adresă: @Model.Address</p>
+<p>Total: <strong>@Model.Total MDL</strong></p>
+
+<h5>Produse</h5>
+<ul>
+@foreach (var i in Model.Items)
+{
+    <li>@i.Name — @i.Quantity x @i.UnitPrice = @i.LineTotal (@i.ItemType)</li>
+}
+</ul>
+
+<form method="post" asp-action="SetStatus" class="d-flex gap-2 align-items-end">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div>
+        <label class="form-label">Schimbă status</label>
+        <select class="form-select" name="status">
+            <option value="@OrderStatus.New">New</option>
+            <option value="@OrderStatus.Processing">Processing</option>
+            <option value="@OrderStatus.Delivered">Delivered</option>
+            <option value="@OrderStatus.Cancelled">Cancelled</option>
+        </select>
+    </div>
+    <button class="btn btn-primary">Aplică</button>
+</form>
+
+<a class="btn btn-outline-secondary mt-3" asp-action="Index">Înapoi</a>

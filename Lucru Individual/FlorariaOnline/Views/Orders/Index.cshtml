@@ -1,0 +1,35 @@
+﻿@model List<FlorariaOnline.Models.Order>
+@{
+    ViewData["Title"] = "Comenzile mele";
+}
+
+<h2>Comenzile mele</h2>
+
+@if (!Model.Any())
+{
+    <p>Nu ai comenzi încă.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Data</th>
+                <th>Status</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var o in Model)
+        {
+            <tr>
+                <td>#@o.Id</td>
+                <td>@o.CreatedAt.ToLocalTime()</td>
+                <td>@o.Status</td>
+                <td>@o.Total MDL</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}

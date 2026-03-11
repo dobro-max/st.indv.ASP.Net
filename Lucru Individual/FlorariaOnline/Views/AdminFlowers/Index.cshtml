@@ -1,0 +1,28 @@
+﻿@model List<FlorariaOnline.Models.Flower>
+@{
+    ViewData["Title"] = "Admin - Flori";
+}
+
+<h2>Admin - Inventar Flori</h2>
+<a class="btn btn-success mb-2" asp-action="Create">Adaugă</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nume</th><th>Culoare</th><th>Preț</th><th>Stoc</th><th>Min</th><th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var f in Model)
+    {
+        <tr>
+            <td>@f.Name</td>
+            <td>@f.Color</td>
+            <td>@f.PricePerStem</td>
+            <td>@f.Stock</td>
+            <td>@f.MinimumStock</td>
+            <td><a class="btn btn-sm btn-outline-primary" asp-action="Edit" asp-route-id="@f.Id">Edit</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

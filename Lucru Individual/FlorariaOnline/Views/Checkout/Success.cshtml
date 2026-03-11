@@ -1,0 +1,21 @@
+﻿@model FlorariaOnline.Models.Order
+@{
+    ViewData["Title"] = "Comandă plasată";
+}
+
+<h2>Comandă plasată cu succes</h2>
+
+<p>Număr comandă: <strong>#@Model.Id</strong></p>
+<p>Status: <strong>@Model.Status</strong></p>
+<p>Total: <strong>@Model.Total MDL</strong></p>
+
+<h5>Produse</h5>
+<ul>
+@foreach (var i in Model.Items)
+{
+    <li>@i.Name — @i.Quantity x @i.UnitPrice = @i.LineTotal MDL (@i.ItemType)</li>
+}
+</ul>
+
+<a class="btn btn-primary" asp-controller="Orders" asp-action="Index">Comenzile mele</a>
+<a class="btn btn-outline-secondary" asp-controller="Catalog" asp-action="Index">Înapoi la catalog</a>action="Index">Înapoi la catalog</a>

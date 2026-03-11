@@ -1,0 +1,586 @@
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.csproj.AssemblyReference.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.AssemblyInfoInputs.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.AssemblyInfo.cs
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.csproj.CoreCompileInputs.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.RazorAssemblyInfo.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.RazorAssemblyInfo.cs
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\appsettings.Development.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\appsettings.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.staticwebassets.runtime.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.staticwebassets.endpoints.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.exe
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.deps.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.runtimeconfig.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.pdb
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Humanizer.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.CodeDom.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Text.Json.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\scopedcss\bundle\FlorariaOnline.styles.css
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\scopedcss\projectbundle\FlorariaOnline.bundle.scp.css
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\3eknrxkd68-b9sayid5wm.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\4jc38h7gkd-61n19gt1b8.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\p8fz6dnpiy-xtxxf3hu2r.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\om7p7la5rv-bqjiyaj88i.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\cxmm97xv5g-c2jlpeoesf.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\d5u9e5a705-erw9l3u2r3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\n3l4goa3t0-aexeepp0ev.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\fs7ts7qh5i-d7shbmvgxk.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ruz40jn3f5-ausgxo2sd3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\s6r6xfteio-k8d9w2qqmf.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\efeu3zfgzl-cosvhxvwiu.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\atyojiatre-ub07r2b239.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\fti02glgap-fvhpjtyr6v.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\feucc4ikd7-b7pk76d08c.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\0ao2hjux0k-fsbi9cje9m.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\5469qbv2l7-rzd6atqjts.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\6pmbphr9z6-ee0r1s7dh0.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\c3pi6lgd9i-dxx9fxp4il.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nyd2pwklmn-jd9uben2k1.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\8b87dqjxul-khv3u5hwcm.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\5erplaoo49-r4e9w2rdcm.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\r0uko1oi62-lcd1t2u6c8.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ar9tnyppt5-c2oey78nd0.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\yc9qxzfzos-tdbxkamptv.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xkethrxvm9-j5mq2jizvt.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\cld748fjmm-06098lyss8.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\c9k3zsw5zf-nvvlpmu67g.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\zk7mwyatsl-s35ty4nyc5.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\59ns7unt0g-pj5nd1wqec.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\c70i8yg5cu-46ein0sx1k.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\p9de6bwytp-v0zj4ognzu.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\p4jpntbln5-37tfw0ft22.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9i3a3p0rtq-hrwsygsryq.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\30sv1qv75v-pk9g2wxc8p.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\gsv4mqxugr-ft3s53vfgj.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\dfpzuzdu78-6cfz1n2cew.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\g2cfusmb8u-6pdc2jztkx.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\o9digmg3oa-493y06b0oq.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\2qvcxoj5ep-iovd86k7lj.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\3lzqvzxc1p-vr1egmr9el.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\iopw4yxiq7-kbrnm935zg.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\4se71kyw7y-jj8uyg4cgr.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\1oyagn20lm-y7v9cxd14o.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\zzunlyhxkw-notf2xhcfb.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\c1fkvqu2a9-h1s4sie4z3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\v1ugihmat9-63fj8s7r0e.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\h7ruu0hoyi-0j3bgjxly4.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\cgxhkhjfaf-47otxtyo56.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\idmf2dlsyv-4v8eqarkd7.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\1bhb29r4gv-356vix0kms.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\caanx4ogcu-83jwlth58m.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\i9hxe93nq1-mrlpezrjn3.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ur6nkv79lh-lzl9nlhx6b.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\2nog11wmhv-ag7o75518u.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\2gtwpsq3o9-x0q3zqp4vz.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\m2pmcl5lzz-0i3buxo5is.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\79h59502bw-o1o13a6vjx.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\1egwwcmkyl-ttgo8qnofa.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9bccpdcaze-2z0ns9nrw6.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\rdk0b2137i-muycvpuwrr.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\rg5mgmzz4t-87fc7y1x7t.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\752qfc5ugz-mlv21k5csn.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\w92fvu965n-ffnislf86o.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\6c1n55plmu-ffnislf86o.gz
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.build.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.development.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\Floraria.5DB52034.Up2Date
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\refint\FlorariaOnline.dll
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.pdb
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.genruntimeconfig.cache
+D:\Visual\Desktop\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\ref\FlorariaOnline.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\appsettings.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.staticwebassets.runtime.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.staticwebassets.endpoints.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.exe
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.deps.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.runtimeconfig.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\FlorariaOnline.pdb
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Humanizer.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.csproj.AssemblyReference.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.AssemblyInfoInputs.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.AssemblyInfo.cs
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.csproj.CoreCompileInputs.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.RazorAssemblyInfo.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.RazorAssemblyInfo.cs
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\scopedcss\bundle\FlorariaOnline.styles.css
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\scopedcss\projectbundle\FlorariaOnline.bundle.scp.css
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ah1st8yfsl-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vwq0z7hsew-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\bg1aojzuve-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vd1zpgfoqp-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\hizlq4di35-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\d4k98pbwjy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\bxthlxuigt-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\910ndgi9hq-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ubc1ifw224-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xpcyxlqdpv-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9skzoj8c1y-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\jr25hxpij3-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\9qmols2lyr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\f9wunkbkak-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\66yew73g34-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\va6phhi1lj-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\kay3wta181-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\yvfq0e88fm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\50p2fwbsxq-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\fmr9t5qucd-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ah74kdglh2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\h1t0dkvr8z-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\h23tqtlolm-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\08x6ca8dyb-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\yk5zzmteoe-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xvtbnv6tln-{0}-06098lyss8-06098lyss8.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\jc9r5bv9rn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ynfjlixgxi-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ck0ax1osw1-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\pr7z7hh314-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\i9ioi9xq9v-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nujtmefq4y-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\8x885vbzc0-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\w72uzego95-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\s7z503daoa-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ihyk909fug-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\mcq8p2tsl4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xa8ggib5o6-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\i893iges2d-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xs5vm7dyzt-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\v13ndiljxe-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\qcu9klk3y5-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\7f887wu320-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\il1bekv9yu-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ju5hnfgpq2-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\nru8i9pcgj-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\oodbzvy18k-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\c077dpgq1t-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\ay60brolww-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xgy7hp4mor-{0}-356vix0kms-356vix0kms.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\0kegsx2vhw-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vlhv0ggyep-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\z56nn9c1ms-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\sy8bffzs9a-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\e5sfw0z3aj-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\mxrsq8kkp1-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\i0ufk9j3re-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\5xnq55a7xc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\4acr68vm3e-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\lpj21swwej-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\yl543zq14g-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\xu5zctns4u-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\oaq2aip0mh-{0}-bri00yu1zh-bri00yu1zh.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\compressed\vwqdfxcetp-{0}-bri00yu1zh-bri00yu1zh.gz
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\Floraria.5DB52034.Up2Date
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\refint\FlorariaOnline.dll
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.pdb
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\FlorariaOnline.genruntimeconfig.cache
+C:\Users\dobro\Downloads\Telegram Desktop\Lucru Individual\Lucru Individual\FlorariaOnline\obj\Debug\net9.0\ref\FlorariaOnline.dll

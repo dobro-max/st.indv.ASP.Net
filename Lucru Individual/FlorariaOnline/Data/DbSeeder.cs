@@ -1,0 +1,137 @@
+﻿using FlorariaOnline.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using System.Data.Common;
+using Microsoft.Extensions.Hosting;
+
+namespace FlorariaOnline.Data;
+
+public static class DbSeeder
+{
+    public static async Task SeedAsync(IServiceProvider sp)
+    {
+        using var scope = sp.CreateScope();
+        var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+
+        // If the Identity tables are missing we need to either migrate or recreate the DB
+        if (!await TableExistsAsync(db, "AspNetRoles"))
+        {
+            var migrations = db.Database.GetMigrations();
+            if (migrations != null && migrations.Any())
+            {
+                await db.Database.MigrateAsync();
+            }
+            else
+            {
+                // If no migrations exist but the DB file may already be present without Identity schema,
+                // recreate the database in Development to ensure the current model (including Identity) is created.
+                var env = scope.ServiceProvider.GetService<IHostEnvironment>();
+                if (env != null && env.IsDevelopment())
+                {
+                    await db.Database.EnsureDeletedAsync();
+                    await db.Database.EnsureCreatedAsync();
+                }
+                else
+                {
+                    // Try to ensure created as a fallback in non-development environments.
+                    await db.Database.EnsureCreatedAsync();
+                }
+            }
+        }
+
+        // Roles + Admin user
+        var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+        var userManager = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
+
+        if (!await roleManager.RoleExistsAsync("Admin"))
+            await roleManager.CreateAsync(new IdentityRole("Admin"));
+
+        var adminEmail = "admin@floraria.local";
+        var admin = await userManager.FindByEmailAsync(adminEmail);
+        if (admin == null)
+        {
+            admin = new IdentityUser { UserName = adminEmail, Email = adminEmail, EmailConfirmed = true };
+            await userManager.CreateAsync(admin, "Admin123!");
+            await userManager.AddToRoleAsync(admin, "Admin");
+        }
+
+        // Data
+        if (!db.Flowers.Any())
+        {
+            db.Flowers.AddRange(
+                new Flower { Name = "Trandafir", Color = "Roșu", PricePerStem = 15, Stock = 200, MinimumStock = 30, ImageUrl = "https://picsum.photos/seed/rose/500/350" },
+                new Flower { Name = "Lalea", Color = "Galben", PricePerStem = 10, Stock = 160, MinimumStock = 25, ImageUrl = "https://picsum.photos/seed/tulip/500/350" },
+                new Flower { Name = "Crizantemă", Color = "Alb", PricePerStem = 8, Stock = 180, MinimumStock = 20, ImageUrl = "https://picsum.photos/seed/chry/500/350" },
+                new Flower { Name = "Bujor", Color = "Roz", PricePerStem = 20, Stock = 90, MinimumStock = 15, ImageUrl = "https://picsum.photos/seed/peony/500/350" }
+            );
+            await db.SaveChangesAsync();
+        }
+
+        if (!db.BouquetProducts.Any())
+        {
+            var rose = await db.Flowers.FirstAsync(f => f.Name == "Trandafir");
+            var tulip = await db.Flowers.FirstAsync(f => f.Name == "Lalea");
+
+            var b1 = new BouquetProduct
+            {
+                Name = "Buchet Romantic",
+                Description = "Trandafiri roșii + ambalaj elegant.",
+                BasePrice = 199,
+                ImageUrl = "https://moldflowers.md/product/buchet-cu-lalele-roz-de-tip-bujor-primavara-inflorita",
+                IsActive = true
+            };
+            b1.Items.Add(new BouquetProductItem { FlowerId = rose.Id, Quantity = 9 });
+
+            var b2 = new BouquetProduct
+            {
+                Name = "Buchet Primăvară",
+                Description = "Lalele colorate, perfect pentru cadou.",
+                BasePrice = 149,
+                ImageUrl = "https://moldflowers.md/product/buchet-cu-lalele-roz-de-tip-bujor-primavara-inflorita",
+                IsActive = true
+            };
+            b2.Items.Add(new BouquetProductItem { FlowerId = tulip.Id, Quantity = 11 });
+
+            db.BouquetProducts.AddRange(b1, b2);
+            await db.SaveChangesAsync();
+        }
+    }
+
+    private static async Task<bool> TableExistsAsync(DbContext db, string tableName)
+    {
+        var provider = db.Database.ProviderName ?? string.Empty;
+        var conn = db.Database.GetDbConnection();
+        try
+        {
+            if (conn.State == System.Data.ConnectionState.Closed)
+                await conn.OpenAsync();
+
+            using var cmd = conn.CreateCommand();
+
+            if (provider.Contains("Sqlite", StringComparison.OrdinalIgnoreCase))
+            {
+                cmd.CommandText = "SELECT name FROM sqlite_master WHERE type='table' AND name=@name";
+                var p = cmd.CreateParameter();
+                p.ParameterName = "@name";
+                p.Value = tableName;
+                cmd.Parameters.Add(p);
+            }
+            else
+            {
+                // Generic fallback for other providers
+                cmd.CommandText = "SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = @name";
+                var p = cmd.CreateParameter();
+                p.ParameterName = "@name";
+                p.Value = tableName;
+                cmd.Parameters.Add(p);
+            }
+
+            var result = await cmd.ExecuteScalarAsync();
+            return result != null;
+        }
+        finally
+        {
+            try { await conn.CloseAsync(); } catch { }
+        }
+    }
+}

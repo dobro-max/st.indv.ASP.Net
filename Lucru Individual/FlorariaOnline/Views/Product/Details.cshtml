@@ -1,0 +1,35 @@
+﻿@model FlorariaOnline.Models.BouquetProduct
+@{
+    ViewData["Title"] = "Detalii";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <img class="img-fluid rounded" src="@Model.ImageUrl" alt="@Model.Name" />
+    </div>
+    <div class="col-md-6">
+        <h2>@Model.Name</h2>
+        <p>@Model.Description</p>
+        <p><strong>Preț: @Model.BasePrice MDL</strong></p>
+
+        <form method="post" asp-controller="Cart" asp-action="AddStandard">
+            @Html.AntiForgeryToken()
+            <input type="hidden" name="productId" value="@Model.Id" />
+            <div class="input-group mb-2" style="max-width:260px;">
+                <span class="input-group-text">Cantitate</span>
+                <input class="form-control" type="number" name="quantity" value="1" min="1" />
+            </div>
+            <button class="btn btn-success">Adaugă în coș</button>
+            <a class="btn btn-outline-secondary" asp-controller="Cart" asp-action="Index">Coș</a>
+        </form>
+
+        <hr />
+        <h5>Compoziție</h5>
+        <ul>
+        @foreach (var it in Model.Items)
+        {
+            <li>@it.Flower?.Name - @it.Quantity fire</li>
+        }
+        </ul>
+    </div>
+</div>

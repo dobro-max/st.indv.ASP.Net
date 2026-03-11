@@ -1,0 +1,26 @@
+﻿@model List<FlorariaOnline.Models.Order>
+@{
+    ViewData["Title"] = "Admin - Comenzi";
+}
+
+<h2>Admin - Comenzi</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th><th>Data</th><th>Status</th><th>Total</th><th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var o in Model)
+    {
+        <tr>
+            <td>#@o.Id</td>
+            <td>@o.CreatedAt.ToLocalTime()</td>
+            <td>@o.Status</td>
+            <td>@o.Total</td>
+            <td><a class="btn btn-sm btn-outline-primary" asp-action="Details" asp-route-id="@o.Id">Detalii</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

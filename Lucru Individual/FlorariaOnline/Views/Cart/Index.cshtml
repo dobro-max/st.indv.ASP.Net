@@ -1,0 +1,66 @@
+﻿@model List<FlorariaOnline.Services.CartLine>
+@{
+    ViewData["Title"] = "Coș";
+}
+
+<h2>Coș</h2>
+
+@if (!Model.Any())
+{
+    <p>Coșul este gol.</p>
+    <a class="btn btn-primary" asp-controller="Catalog" asp-action="Index">Înapoi la catalog</a>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Produs</th>
+                <th>Tip</th>
+                <th>Preț</th>
+                <th style="width:200px;">Cantitate</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>
+                    <strong>@i.Name</strong>
+                    @if (i.ItemType == "Custom" && i.Flowers != null)
+                    {
+                        <div class="small text-muted">
+                            @string.Join(", ", i.Flowers.Select(f => $"{f.Name} x{f.Quantity}"))
+                        </div>
+                    }
+                </td>
+                <td>@i.ItemType</td>
+                <td>@i.UnitPrice MDL</td>
+                <td>
+                    <form method="post" asp-action="SetQty" class="d-flex gap-2">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="key" value="@i.Key" />
+                        <input class="form-control" type="number" name="qty" value="@i.Quantity" min="0" />
+                        <button class="btn btn-sm btn-outline-primary">OK</button>
+                    </form>
+                </td>
+                <td>@(i.UnitPrice * i.Quantity) MDL</td>
+                <td>
+                    <form method="post" asp-action="Remove">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="key" value="@i.Key" />
+                        <button class="btn btn-sm btn-outline-danger">Șterge</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <h4>Total: @ViewBag.Total MDL</h4>
+
+    <a class="btn btn-outline-secondary" asp-controller="Catalog" asp-action="Index">Continuă cumpărăturile</a>
+    <a class="btn btn-success" asp-controller="Checkout" asp-action="Index">Checkout</a>
+}

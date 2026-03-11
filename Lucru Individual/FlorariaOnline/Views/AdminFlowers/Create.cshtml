@@ -1,0 +1,44 @@
+﻿@model FlorariaOnline.Models.Flower
+@{
+    ViewData["Title"] = "Floare";
+}
+
+<h2>Floare</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Nume</label>
+            <input class="form-control" asp-for="Name"/>
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">Culoare</label>
+            <input class="form-control" asp-for="Color"/>
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Preț / fir</label>
+            <input class="form-control" asp-for="PricePerStem"/>
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Stoc</label>
+            <input class="form-control" asp-for="Stock"/>
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Stoc minim</label>
+            <input class="form-control" asp-for="MinimumStock"/>
+        </div>
+        <div class="col-md-12">
+            <label class="form-label">Imagine (URL)</label>
+            <input class="form-control" asp-for="ImageUrl"/>
+        </div>
+    </div>
+
+    <div class="text-danger mt-2">@Html.ValidationSummary()</div>
+
+    <button class="btn btn-success mt-3">Salvează</button>
+    <a class="btn btn-outline-secondary mt-3" asp-action="Index">Înapoi</a>
+</form>
+
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }

@@ -1,0 +1,43 @@
+﻿@model List<FlorariaOnline.Models.BouquetProduct>
+@{
+    ViewData["Title"] = "Catalog";
+}
+
+<h2>Catalog buchete</h2>
+
+<form method="get" class="row g-2 mb-3">
+    <div class="col-md-4">
+        <input class="form-control" name="q" value="@ViewBag.Query" placeholder="Caută..." />
+    </div>
+    <div class="col-md-2">
+        <input class="form-control" name="min" value="@ViewBag.Min" placeholder="Preț min" />
+    </div>
+    <div class="col-md-2">
+        <input class="form-control" name="max" value="@ViewBag.Max" placeholder="Preț max" />
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-primary w-100">Filtrează</button>
+    </div>
+    <div class="col-md-2">
+        <a class="btn btn-outline-success w-100" asp-controller="CustomBouquet" asp-action="Create">Buchet personalizat</a>
+    </div>
+</form>
+
+<div class="row">
+@foreach (var p in Model)
+{
+    <div class="col-md-4 mb-3">
+        <div class="card h-100">
+            <img class="card-img-top" src="@p.ImageUrl" alt="@p.Name" />
+            <div class="card-body">
+                <h5 class="card-title">@p.Name</h5>
+                <p class="card-text">@p.Description</p>
+                <div class="d-flex justify-content-between align-items-center">
+                    <strong>@p.BasePrice MDL</strong>
+                    <a class="btn btn-sm btn-outline-primary" asp-controller="Product" asp-action="Details" asp-route-id="@p.Id">Detalii</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+</div>

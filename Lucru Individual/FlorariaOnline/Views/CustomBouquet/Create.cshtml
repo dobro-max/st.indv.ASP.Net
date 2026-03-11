@@ -1,0 +1,64 @@
+﻿@model FlorariaOnline.ViewModels.CustomBouquetCreateVm
+@{
+    ViewData["Title"] = "Buchet personalizat";
+}
+
+<h2>Buchet personalizat</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="row g-3 mb-3">
+        <div class="col-md-4">
+            <label class="form-label">Ambalaj</label>
+            <select class="form-select" asp-for="WrapType">
+                <option value="Classic">Classic (+15)</option>
+                <option value="Premium">Premium (+25)</option>
+                <option value="Luxury">Luxury (+40)</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Taxă aranjare</label>
+            <input class="form-control" asp-for="AssemblyFee" />
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Mesaj felicitare</label>
+            <input class="form-control" asp-for="GreetingCardMessage" />
+        </div>
+    </div>
+
+    <h5>Alege flori</h5>
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th>Floare</th>
+                <th>Preț</th>
+                <th>Stoc</th>
+                <th style="width:140px;">Cantitate</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var f in Model.AvailableFlowers)
+        {
+            <tr>
+                <td>@f.Name (@f.Color)</td>
+                <td>@f.PricePerStem MDL</td>
+                <td>@f.Stock</td>
+                <td>
+                    <input class="form-control" type="number"
+                           name="Quantities[@f.Id]"
+                           value="@(Model.Quantities.ContainsKey(f.Id) ? Model.Quantities[f.Id] : 0)"
+                           min="0" />
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+
+    <button class="btn btn-success">Adaugă în coș</button>
+    <a class="btn btn-outline-secondary" asp-controller="Cart" asp-action="Index">Coș</a>
+</form>

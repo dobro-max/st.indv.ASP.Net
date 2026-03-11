@@ -1,0 +1,48 @@
+﻿@model FlorariaOnline.ViewModels.CheckoutVm
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h2>Checkout</h2>
+<p><strong>Total: @ViewBag.Total MDL</strong></p>
+
+<form method="post" asp-action="PlaceOrder">
+    @Html.AntiForgeryToken()
+
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Nume</label>
+            <input class="form-control" asp-for="DeliveryName" />
+            <span class="text-danger" asp-validation-for="DeliveryName"></span>
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">Telefon</label>
+            <input class="form-control" asp-for="Phone" />
+            <span class="text-danger" asp-validation-for="Phone"></span>
+        </div>
+        <div class="col-md-12">
+            <label class="form-label">Adresă</label>
+            <input class="form-control" asp-for="Address" />
+            <span class="text-danger" asp-validation-for="Address"></span>
+        </div>
+        <div class="col-md-12">
+            <label class="form-label">Notițe</label>
+            <input class="form-control" asp-for="Notes" />
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Plată</label>
+            <select class="form-select" asp-for="PaymentMethod">
+                <option value="Cash">Cash</option>
+                <option value="Card (Simulare)">Card (Simulare)</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="text-danger mt-2">@Html.ValidationSummary()</div>
+
+    <button class="btn btn-success mt-3">Plasează comanda</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
