@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj": {}
+    "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj": {
+    "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
+        "projectUniqueName": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
         "projectName": "FlorariaOnline",
-        "projectPath": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
+        "projectPath": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
         "packagesPath": "C:\\Users\\dobro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\obj\\",
+        "outputPath": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

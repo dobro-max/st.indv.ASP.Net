@@ -1,45 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\",
+  "WorkspaceRootPath": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\views\\custombouquet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\custombouquet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\custombouquet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\controllers\\custombouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\controllers\\custombouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\florariaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\adminorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\adminorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\adminorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\adminorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\adminflowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\adminflowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\adminflowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\adminflowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\adminflowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\adminflowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\controllers\\custombouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\controllers\\custombouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\florariaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\florariaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\downloads\\telegram desktop\\lucru individual\\lucru individual\\florariaonline\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|c:\\users\\dobro\\documents\\programare\\vs\\asp.net\\stdindv\\lucru individual\\florariaonline\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08B2C66-BCC8-43B0-87E4-82F5FE6339AC}|FlorariaOnline\\FlorariaOnline.csproj|solutionrelative:florariaonline\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,19 +90,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:44:15.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Checkout\\Success.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Checkout\\Success.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Checkout\\Success.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\Checkout\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:44:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:44:00.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\AdminOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminOrders\\Index.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\AdminOrders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:51.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminOrders\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\AdminOrders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminOrders\\Details.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\AdminOrders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminFlowers\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\AdminFlowers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminFlowers\\Index.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\AdminFlowers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminFlowers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\AdminFlowers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminFlowers\\Edit.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\AdminFlowers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminFlowers\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\AdminFlowers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\AdminFlowers\\Create.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\AdminFlowers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:16.853Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\Catalog\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlorariaOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:43:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Catalog\\Index.cshtml",
               "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Catalog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Catalog\\Index.cshtml",
               "RelativeToolTip": "FlorariaOnline\\Views\\Catalog\\Index.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -71,50 +241,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "CustomBouquetController.cs",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Controllers\\CustomBouquetController.cs",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Controllers\\CustomBouquetController.cs",
               "RelativeDocumentMoniker": "FlorariaOnline\\Controllers\\CustomBouquetController.cs",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Controllers\\CustomBouquetController.cs",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Controllers\\CustomBouquetController.cs",
               "RelativeToolTip": "FlorariaOnline\\Controllers\\CustomBouquetController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAqwGkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T10:47:19.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T10:47:19.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\CustomBouquet\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\CustomBouquet\\Create.cshtml",
               "RelativeDocumentMoniker": "FlorariaOnline\\Views\\CustomBouquet\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\CustomBouquet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\CustomBouquet\\Create.cshtml",
               "RelativeToolTip": "FlorariaOnline\\Views\\CustomBouquet\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-11T10:47:15.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "CheckoutController.cs",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Controllers\\CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "FlorariaOnline\\Controllers\\CheckoutController.cs",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "FlorariaOnline\\Controllers\\CheckoutController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T10:47:13.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T10:47:13.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "FlorariaOnline\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -122,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Data\\DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Data\\DbSeeder.cs",
               "RelativeDocumentMoniker": "FlorariaOnline\\Data\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Data\\DbSeeder.cs",
               "RelativeToolTip": "FlorariaOnline\\Data\\DbSeeder.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,24 +303,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "FlorariaOnline.csproj",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
               "RelativeDocumentMoniker": "FlorariaOnline\\FlorariaOnline.csproj",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\FlorariaOnline.csproj",
               "RelativeToolTip": "FlorariaOnline\\FlorariaOnline.csproj",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-11T10:41:31.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T10:41:31.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "FlorariaOnline\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "FlorariaOnline\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FlorariaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FlorariaOnline\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAASwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -172,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\appsettings.json",
               "RelativeDocumentMoniker": "FlorariaOnline\\appsettings.json",
-              "ToolTip": "C:\\Users\\dobro\\Downloads\\Telegram Desktop\\Lucru Individual\\Lucru Individual\\FlorariaOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\dobro\\Documents\\Programare\\VS\\ASP.NET\\stdindv\\Lucru Individual\\FlorariaOnline\\appsettings.json",
               "RelativeToolTip": "FlorariaOnline\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
